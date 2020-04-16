@@ -7,4 +7,4 @@
 
 # Execute
 * either run `a.exe` with the command `.\a.exe`
-* or use run configuration in 'vscode' -> 'F5`
+* or use run configuration in `vscode` -> `F5`
